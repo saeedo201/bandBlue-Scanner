@@ -34,7 +34,7 @@
 
 ## تثبيت (مثال)
 ```bash
-git clone https://example.com/your-repo.git
+git clone https://github.com/saeedo201/bandBlue-Scanner.git
 cd bandBlue-Scaner
 pip install -r requirements.txt
 python3 Safr_Scanner.py
