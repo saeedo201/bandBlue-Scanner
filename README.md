@@ -31,6 +31,9 @@
 
 
 ---
+##Credit
+Don't Copy this code without give me the credit, nerd!
+
 
 ## تثبيت (مثال)
 ```bash
